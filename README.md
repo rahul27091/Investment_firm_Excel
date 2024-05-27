@@ -6,17 +6,14 @@ dataset containing the sales and other attributes of these 700 firms.</p>
 <h1><a name="projectobjectives">Project Objectives💡</a></h1>
 <p>This Excel project is structured around several key tasks designed to unlock the insights of the 700 firms ecosystem:</p>
 <ul>
-  <li> To understand the data </li>
+  <li> Understand the data </li>
   <li> Simple Linear Regression with one variable</li>
   <li> Multilinear Regression Model with all variables</li>
-  <li>Total Number of Movies and TV Shows</li>
-  <li> Identifying Top 10 Countries by Movies and TV Shows</li>
+  <li>Best fir model</li>
 </ul>
-<h1><a name='dashboard'>Dashboard</a></h1>
-<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/blob/main/Netflix%20dashboard.png">
-<h1><a name="visualizationtools">Visualization Tools</a></h1>
+
 <ul><li>Tool used🛠️: Excel</li>
-<li> Data set used: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">
+<li> Data set used: <a href="">
          <img src=" Netflix Dataset" alt=""> Netflix Dataset</a></li></ul>
 <p> This Excel project leverages a rich palette of visualizations, including bar charts, Histograms. Alongwith, Regression models(simple linear, multilinear both) and judging which model is the best.Share some business recommendation based upon the analysis done on the models .</p>
 <h1><a name="conclusion">Conclusion</a></h1>
