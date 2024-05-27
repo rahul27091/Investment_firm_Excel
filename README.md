@@ -19,7 +19,8 @@ dataset containing the sales and other attributes of these 700 firms.</p>
 <p> This Excel project leverages a rich palette of visualizations, including bar charts, Histograms. Alongwith, Regression models(simple linear, multilinear both) and judging which model is the best.Share some business recommendation based upon the analysis done on the models .</p>
 <h1><a name="conclusion">Conclusion</a></h1>
 
-<li> Project: <a href="https://github.com/rahul27091/Investment_firm_Excel/blob/efbfc3dea85a92e172d3ff77f1cd968dbe7fd03c/Excel%20Project-%20Investment%20Firm%20(1).pdf"> <img src=" Project details" alt=""> Project details</a></li></ul>
-<p>In a world where data-driven decisions are paramount, our Netflix Power BI Dashboard Project empowers content creators, marketers, and decision-makers in the entertainment industry to navigate the Netflix universe effectively. Explore the nuances of content genres, audience preferences, and international contributions while unveiling the hidden gems within Netflix's content repository. Welcome to the era of data-driven entertainment strategy, brought to life through the power of Power BI.</p>
+<li> Project: <a href="https://github.com/rahul27091/Investment_firm_Excel/blob/7cf74151b7c07ec1803342d6217bd8415650d1ba/Excel_project.xlsx"> <img src=" Project " alt=""> Project </a></li></ul>
+
+<p>In a world where data-driven decisions are paramount, the Excel Dashboard Project empowers the Firm to invest in good and Profit making firm and decide who is best among them </p>
 
 
